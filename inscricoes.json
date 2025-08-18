@@ -1,0 +1,175 @@
+[{
+  "_id": {
+    "$oid": "68a36dda3d1a0be86ed0cab9"
+  },
+  "aluno": "Guilherme Dantas",
+  "data": "2025-08-18T10:00:00Z",
+  "curso": {
+    "nome": "Programação para internet"
+  },
+  "notas": [
+    7,
+    8.5,
+    10
+  ]
+},
+{
+  "_id": {
+    "$oid": "68a36dec3d1a0be86ed0cabb"
+  },
+  "aluno": "Angelina Souza",
+  "data": "2025-08-18T10:00:00Z",
+  "curso": {
+    "nome": "Programação para internet"
+  },
+  "notas": [
+    7.4,
+    9.5,
+    9.4
+  ]
+},
+{
+  "_id": {
+    "$oid": "68a36df53d1a0be86ed0cabd"
+  },
+  "aluno": "William Douglas",
+  "data": "2025-08-18T10:00:00Z",
+  "curso": {
+    "nome": "Programação para internet"
+  },
+  "notas": [
+    6.4,
+    3.5,
+    6.4
+  ]
+},
+{
+  "_id": {
+    "$oid": "68a36e1c3d1a0be86ed0cabf"
+  },
+  "aluno": "Rodrigo",
+  "localizacao": {
+    "type": "Point",
+    "coordinates": [
+      -54.577546,
+      -20.388008
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68a36e263d1a0be86ed0cac1"
+  },
+  "aluno": "Paula",
+  "localizacao": {
+    "type": "Point",
+    "coordinates": [
+      -54.572113,
+      -20.36389
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68a36e2c3d1a0be86ed0cac3"
+  },
+  "aluno": "Fernanda",
+  "localizacao": {
+    "type": "Point",
+    "coordinates": [
+      -54.589102,
+      -20.362981
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68a36e4b3d1a0be86ed0cac5"
+  },
+  "aluno": "Angelica",
+  "localizacao": {
+    "type": "Point",
+    "coordinates": [
+      -54.565923,
+      -20.393017
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68a36e553d1a0be86ed0cac7"
+  },
+  "aluno": "Felicity",
+  "localizacao": {
+    "type": "Point",
+    "coordinates": [
+      -54.561802,
+      -20.371926
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68a36e5f3d1a0be86ed0cac9"
+  },
+  "aluno": "Gabriela",
+  "localizacao": {
+    "type": "Point",
+    "coordinates": [
+      -54.571803,
+      -20.353915
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68a36e7b3d1a0be86ed0cacb"
+  },
+  "aluno": "Ana",
+  "localizacao": {
+    "type": "Point",
+    "coordinates": [
+      -54.591023,
+      -20.388263
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68a36e853d1a0be86ed0cacd"
+  },
+  "aluno": "Larissa",
+  "localizacao": {
+    "type": "Point",
+    "coordinates": [
+      -54.561729,
+      -20.301829
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68a36e8f3d1a0be86ed0cacf"
+  },
+  "aluno": "Guilherme",
+  "localizacao": {
+    "type": "Point",
+    "coordinates": [
+      -54.562801,
+      -20.361803
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "68a36e963d1a0be86ed0cad1"
+  },
+  "aluno": "Rodrigo",
+  "localizacao": {
+    "type": "Point",
+    "coordinates": [
+      -54.571993,
+      -20.363891
+    ]
+  }
+}]
