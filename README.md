@@ -51,10 +51,13 @@ mongoimport --db meubanco --collection inscricoes --file inscricoes.json --jsonA
 
 ---
 
-// Execute no MongoDB Shell ou Compass | Run this in MongoDB Shell or Compass
+//Execute no MongoDB Shell ou Compass | Run this in MongoDB Shell or Compass
+
 db.inscricoes.createIndex({ "localizacao": "2dsphere" })
 
 node 04_geoprocessamento.js
+
+---
 
 🛠 Tech Stack
 Database: MongoDB (NoSQL)
@@ -62,6 +65,8 @@ Database: MongoDB (NoSQL)
 GUI: MongoDB Compass
 
 Runtime: Node.js (MongoDB Native Driver)
+
+---
 
 👤 Author / Autor: Cleverson Moura Andrade
 
