@@ -47,17 +47,15 @@ Este projeto demonstra a implementação de inteligência geoespacial utilizando
 
 ### 1. Data Import / Importação de Dados
 
-mongoimport --db meubanco --collection inscricoes --file inscricoes.json --jsonArray
+```bash mongoimport --db meubanco --collection inscricoes --file inscricoes.json --jsonArray ```
 
 ### 2. Create Spatial Index / Criar Índice Espacial
 
---  Execute no MongoDB Shell ou Compass | Run this in MongoDB Shell or Compass
-
-db.inscricoes.createIndex({ "localizacao": "2dsphere" })
+```javascript // Execute no MongoDB Shell ou Compass | Run this in MongoDB Shell or Compass db.inscricoes.createIndex({ "localizacao": "2dsphere" }) ```
 
 ### 3. Run Aggregation / Executar Agregação
 
-node 04_geoprocessamento.js
+```bash node 04_geoprocessamento.js ```
 
 ---
 
